@@ -1,4 +1,4 @@
-AWS Cloud Projects using omenking's starting template
+# AWS Cloud Projects using omenking's starting template
 
 - [ ] [Week 0](journal/week0.md)
 - [ ] [Week 1](journal/week1.md)
